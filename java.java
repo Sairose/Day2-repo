@@ -16,3 +16,8 @@ class Excep extends ArithmeticException{
         super("divided by zero");
     }
 }
+class Sairose{
+    Sairose(){
+        System.out.println("Sairose");
+    }
+}
