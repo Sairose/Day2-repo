@@ -9,6 +9,7 @@ class java{
     public static void main(String args[]){
         java j= new java();
         j.div(0);
+        new Sairose();
     }
 }
 class Excep extends ArithmeticException{
@@ -20,4 +21,4 @@ class Sairose{
     Sairose(){
         System.out.println("Sairose");
     }
-}
+} 
